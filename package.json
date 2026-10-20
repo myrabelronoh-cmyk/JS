@@ -1,0 +1,11 @@
+{
+  "dependencies": {
+    "datejs": "^1.0.0-rc3"
+  },
+  "devDependencies": {
+    "jest": "^30.5.2"
+  },
+  "scripts": {
+    "test": "jest"
+  }
+}
